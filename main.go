@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/serjr27/sf-cs-go17-task8_8_1/src/electronic"
+	"phones/electronic"
 )
 
 func printCharacteristics(phone interface{}) {
